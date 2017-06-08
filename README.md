@@ -14,7 +14,7 @@ Add it in your root build.gradle at the end of repositories:
 		}
 	}
 	
-Step 2. Add the dependency
+Step 2. Add the dependency (Get latest version from releases tab)
 
 	dependencies {
 		compile 'com.github.zarkooroz:android-SymphonyUtils:0.0.1'
